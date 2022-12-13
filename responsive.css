@@ -173,6 +173,15 @@
         height: 280px;
      }
 
+     .textlink{
+        font-size: 10px;
+    }
+
+    .PACharacter{
+    visibility: hidden;
+    
+    }
+
 
 }
 
