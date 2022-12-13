@@ -126,11 +126,11 @@
     }
 
     .photo{
-        height: 200px;
+        height: 180px;
     }
 
     .titlediv{
-        top: 240px;
+        top: 290px;
     }
 
     .title_principal{
@@ -174,7 +174,7 @@
      }
 
      .textlink{
-        font-size: 10px;
+        font-size: 9px;
     }
 
     .PACharacter{
@@ -185,18 +185,19 @@
 
 }
 
-@media screen and (max-height:900px) {
+  @media screen and (max-height:900px) {
     .photo{
 
         top: 270px; 
+        height: 180px;
     }
     
     .titlediv{
-        top: 150px;  
+        top: 200px;  
     }
 
     .title_principal{
-        font-size: 3em;
+        font-size: 2em;
       
     }
     
@@ -210,13 +211,11 @@
 @media screen and (max-height:750px) {
     .photo{
 
-        top: 200px;
-        height: 240px;
-    
+        top: 220px; 
+        height: 160px;
     }
     
     .titlediv{
-        top: 100px;
- 
+        top: 170px;  
     }
-}
+}   
